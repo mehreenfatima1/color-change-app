@@ -12,7 +12,7 @@ const changeColorA=()=>{
     <>
     <div className='container' style={{backgroundColor:color}}>
 <button onClick={changeColor} style={{backgroundColor:'green'}}>Green</button>
-<button onClick={changeColorA} style={{backgroundColor:'yellow'}}>Yellow</button>
+<button onClick={changeColorA} style={{backgroundColor:'black'}}>Yellow</button>
 </div>
     </>
   )
