@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/color-change-app/static/css/main.840cd92e.css",
-    "main.js": "/color-change-app/static/js/main.152de7ba.js",
+    "main.js": "/color-change-app/static/js/main.8f0085f5.js",
     "index.html": "/color-change-app/index.html",
     "main.840cd92e.css.map": "/color-change-app/static/css/main.840cd92e.css.map",
-    "main.152de7ba.js.map": "/color-change-app/static/js/main.152de7ba.js.map"
+    "main.8f0085f5.js.map": "/color-change-app/static/js/main.8f0085f5.js.map"
   },
   "entrypoints": [
     "static/css/main.840cd92e.css",
-    "static/js/main.152de7ba.js"
+    "static/js/main.8f0085f5.js"
   ]
 }
